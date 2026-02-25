@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(15, 15, 73);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    background-color: purple;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img {
+
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+
+}
+.name
+{  color: rgb(30, 228, 47);
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border: gold;
+    border-radius: 5px;
+    color: chocolate;
+    margin-right: 30px;
+    
+    
+}
+button:hover{
+    background-color: yellow;
+}
